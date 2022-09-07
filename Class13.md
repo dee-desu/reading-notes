@@ -27,7 +27,6 @@ REST is an architectural system centered around resources and Hypermedia using H
 
 ## Things I want to know more about
 
-- webpack
 - Mongoose
 - MongoDB
 - SQL
