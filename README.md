@@ -6,7 +6,7 @@
 ## Notes and observations about my understanding of every class reading in 401 classes
 ## Code 401 - Advanced Software Development
 
-| First Header                  | Second Header                             |
+| Class                         | Reading subject                             |
 | ----------------------------- | ----------------------------------------- |
 | [class01](./401-readings/class01.md)     | Intro to Python           |
 | [class02](./401-readings/Class02.md)     | Testing and Modules       |
