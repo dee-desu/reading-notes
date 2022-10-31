@@ -20,7 +20,7 @@
 | [class10](./401-readings/class10.md)     | Linear Regressions        |
 | [class11](./401-readings/class11.md)     | Data Visualization        |
 | [class12](./401-readings/class12.md)     | Stack and Queue           |
-| [class13](./401-readings/class13.md)     |        |
+| [class13](./401-readings/class13.md)     |    Serverless Functions    |
 | [class14](./401-readings/class14.md)     |   Web Scraping     |
 | [class15](./401-readings/class15.md)     |        |
 
