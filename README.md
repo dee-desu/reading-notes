@@ -23,6 +23,7 @@
 | [class13](./401-readings/class13.md)     |    Serverless Functions    |
 | [class14](./401-readings/class14.md)     |   Web Scraping     |
 | [class15](./401-readings/class15.md)     |     Tree   |
+| [class19](./401-readings/class19.md)     |     Intro to Django   |
 
 
 
