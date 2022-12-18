@@ -29,6 +29,7 @@
 | [class26](./401-readings/class26.md)     |     Permissions & Postgresql   |
 | [class27](./401-readings/class27.md)     |     Graphs   |
 | [class23](./401-readings/class23.md)     |     Hashtabels   |
+| [class28](./401-readings/class28.md)     |     Authentication & Production Server   |
 
 
 
