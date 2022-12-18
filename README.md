@@ -26,9 +26,10 @@
 | [class16](./401-readings/class16.md)     |     Cryptography   |
 | [class17](./401-readings/class17.md)     |     Automation   |
 | [class19](./401-readings/class19.md)     |     Intro to Django   |
+| [class23](./401-readings/class23.md)     |     Hashtabels   |
+| [class24](./401-readings/class24.md)     |     Django Custom User  |
 | [class26](./401-readings/class26.md)     |     Permissions & Postgresql   |
 | [class27](./401-readings/class27.md)     |     Graphs   |
-| [class23](./401-readings/class23.md)     |     Hashtabels   |
 | [class28](./401-readings/class28.md)     |     Authentication & Production Server   |
 
 
