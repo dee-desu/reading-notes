@@ -31,6 +31,7 @@
 | [class26](./401-readings/class26.md)     |     Permissions & Postgresql   |
 | [class27](./401-readings/class27.md)     |     Graphs   |
 | [class28](./401-readings/class28.md)     |     Authentication & Production Server   |
+| [class29](./401-readings/class29.md)     |     API Deployment   |
 
 
 
