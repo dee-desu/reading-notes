@@ -33,7 +33,7 @@
 | [class28](./401-readings/class28.md)     |     Authentication & Production Server   |
 | [class29](./401-readings/class29.md)     |     API Deployment   |
 | [class31](./401-readings/class31.md)     |     React Review   |
-| [class35](./401-readings/class35.md)     |     React Review   |
+| [class35](./401-readings/class35.md)     |     Authentication   |
 
 
 
